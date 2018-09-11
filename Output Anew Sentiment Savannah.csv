@@ -1,0 +1,26 @@
+Sentence ID,Sentence,Sentiment,Sentiment Label,Arousal,Dominance,Found Words,Word List
+1,"
+
+NEGRO LYNCHED FOR DEATH OF FARMER
+
+Mob Wins in Race With Officers to Reach the Black.",4.895555555555555,neutral,4.605555555555556,5.041111111111111,9 out of 10,"['negro', 'death', 'farmer', 'mob', 'win', 'race', 'officer', 'reach', 'black']"
+2,"RIDDLED WITH BULLETS
+
+Tells Victim’s Wife of Crime and Threatens Her Life.",4.707142857142857,neutral,5.1085714285714285,4.464285714285714,7 out of 7,"['riddle', 'bullet', 'tell', 'wife', 'crime', 'threaten', 'life']"
+3,"Macon, Ga., Feb. 12. – Marvin Harris, a negro was lynched in Twiggs county to-day, according to news received here tonight, as a result of his alleged murder of S. A. Fountain, prominent farmer of Wilkinson county.",5.260909090909091,neutral,4.093636363636364,5.665454545454545,11 out of 19,"['negro', 'county', 'accord', 'news', 'receive', 'result', 'murder', 'fountain', 'prominent', 'farmer', 'county']"
+4,The negro was 21 years old.,4.256666666666667,neutral,4.36,4.793333333333333,3 out of 3,"['negro', 'year', 'old']"
+5,The farmer was 60 years old.,5.026666666666666,neutral,3.8266666666666667,5.376666666666666,3 out of 3,"['farmer', 'year', 'old']"
+6,Fountain was shot yesterday while he was plowing a field near the Wilkinson – Twiggs county line.,5.096666666666667,neutral,3.9366666666666665,5.743333333333333,6 out of 10,"['fountain', 'shoot', 'plow', 'field', 'county', 'line']"
+7,The negro Harris then is alleged to have walked to the home of the farmer and told Mrs. Fountain what he had done.,5.88,neutral,3.7985714285714285,5.748571428571428,7 out of 9,"['negro', 'walk', 'home', 'farmer', 'tell', 'fountain', 'do']"
+8,According to the farmer’s wife the negro threatened her life if she told anyone what he had done.,5.267142857142857,neutral,4.5,5.137142857142857,7 out of 8,"['accord', 'wife', 'negro', 'threaten', 'life', 'tell', 'do']"
+9,"The woman was badly frightened by the negro, and she only told the neighbors late in the evening that her husband had not returned from the field.",5.238888888888889,neutral,4.286666666666666,4.937777777777778,9 out of 11,"['woman', 'frighten', 'negro', 'tell', 'neighbor', 'late', 'husband', 'neg-return', 'field']"
+10,A search was begun and the body was found at 10 o’clock last night.,6.216,positive,3.682,5.588,5 out of 6,"['search', 'begin', 'body', 'find', 'night']"
+11,There were several bullet holes in his body.,4.8933333333333335,neutral,4.486666666666666,4.47,3 out of 4,"['bullet', 'hole', 'body']"
+12,At the coroner’s inquest this morning Mrs. Fountain told how the negro had told her of this crime and how he had threatened her.,4.42,neutral,4.435,4.86125,8 out of 8,"['inquest', 'morning', 'fountain', 'tell', 'negro', 'tell', 'crime', 'threaten']"
+13,"A mob of men quickly formed, and though officers tried to reach the negro first, the mob leaders won the race and hanged Harris to the limb of a tree.",5.178461538461539,neutral,4.296923076923077,5.205384615384616,13 out of 17,"['mob', 'form', 'officer', 'try', 'reach', 'negro', 'first', 'mob', 'leader', 'race', 'hang', 'limb', 'tree']"
+14,"The body was riddled with bullets, the head being literally shot to pieces with pistol bullets.",4.7075000000000005,neutral,5.08625,4.735,8 out of 9,"['body', 'riddle', 'bullet', 'head', 'shoot', 'piece', 'pistol', 'bullet']"
+15,The negro is said to have confessed to his crime and admitted that Mrs. Fountain’s story was correct before he was executed by the mob.,4.883333333333333,neutral,4.561111111111111,5.058888888888889,9 out of 9,"['negro', 'say', 'confess', 'crime', 'admit', 'story', 'correct', 'execute', 'mob']"
+16,The negro’s family refused to take his body and the county will bury it.,4.761666666666667,neutral,4.46,5.476666666666667,6 out of 6,"['family', 'refuse', 'take', 'body', 'county', 'bury']"
+17,"Mrs. Fountain said that the negro told her that he lost his temper in an argument with her husband over a plowboy, whose work did not suit the farmer.",4.921818181818182,neutral,5.669090909090909,4.560909090909091,11 out of 13,"['fountain', 'say', 'negro', 'tell', 'lose', 'temper', 'argument', 'husband', 'work', 'neg-suit', 'neg-farmer']"
+18,Fountain was unarmed and when the negro approached him with a revolver he started to run.,5.276666666666666,neutral,4.865,5.2683333333333335,6 out of 7,"['fountain', 'negro', 'approach', 'revolver', 'start', 'run']"
+19,"The negro then said he shot the farmer, and as fountain fell he fired several more times into the body.",5.18875,neutral,4.56875,5.32375,8 out of 10,"['negro', 'say', 'shoot', 'farmer', 'fountain', 'fire', 'time', 'body']"
